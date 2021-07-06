@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976575821029",
+    "project_id": "devleap-2ff30",
+    "storage_bucket": "devleap-2ff30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976575821029:android:4e1d7638eb711b9079100c",
+        "android_client_info": {
+          "package_name": "com.example.practice_chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976575821029-mr991okvn3m0sjgtg51lun4sicio8og4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDan1Q_T5_GtzEeQNIo6Fkab9IPyONq5fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976575821029-mr991okvn3m0sjgtg51lun4sicio8og4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
